@@ -111,11 +111,11 @@ python main.py
 
 **Pergunta:** "quando ele estudou excel? e foi em qual instituição?"
 
-![Pergunta no terminal](docs/print_pergunta.png)
+![Pergunta no terminal](docs/print_pergunta.jpeg)
 
 **Resposta da IA:** Fundação Bradesco (curso Microsoft Excel 2016 - Intermediário), com verificação emitida em fevereiro de 2024. ✅
 
-![Resposta da IA](docs/print_resposta.png)
+![Resposta da IA](docs/print_resposta.jpeg)
 
 ---
 
